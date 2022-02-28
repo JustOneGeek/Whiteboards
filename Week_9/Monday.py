@@ -9,9 +9,6 @@ c = [1, 1, 2, 1, 2, 3]
 d = [3, 4, 6, 2, 6, 1]
 # True
 
-def array123(n):
-  return 1 and 2 and 3 in n
-
 
 
 
